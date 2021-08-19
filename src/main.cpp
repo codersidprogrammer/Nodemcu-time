@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 #include <time.h>
 
-const char *wifiSSID = "HUAWEI-140F";
-const char *password = "65E4TMNMDRY";
+const char *wifiSSID = "YOUR-SSID";
+const char *password = "YOUR-PASS";
 
 /**
  * 
